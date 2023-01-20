@@ -5,7 +5,7 @@ function setup() {
 
 function draw() {
   // Makes the background a lime color
-  background("lime");
+  background("lawngreen");
   
   // Creates a white circle
   ellipse(50,50,80,80);
